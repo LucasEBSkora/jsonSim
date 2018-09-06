@@ -1,6 +1,6 @@
 {
 	"variables": {
-		"rfiduid":"ABCD"
+		"rfid_uid":"ABCD"
 	
 	
 	}
